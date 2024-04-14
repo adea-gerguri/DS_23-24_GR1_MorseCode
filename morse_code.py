@@ -5,6 +5,7 @@ morse_code_fjalori = {'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
                       'M': '--', 'N': '-.', 'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.',
                       'S': '...', 'T': '-', 'U': '..-', 'V': '...-', 'W': '.--', 'X': '-..-',
                       'Y': '-.--', 'Z': '--..', ' ': ' '}
+#sync
 
 #me shtu nje metode qe merr textin si parameter e kthen si morse
 
