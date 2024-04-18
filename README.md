@@ -1,4 +1,4 @@
-#Morse Code encoder and decoder. Encode text with Console.Beep()
+# Morse Code encoder and decoder. Encode text with Console.Beep()
 
 #### University of Prishtina - Faculty of Electrical and Computer Engineering
 
